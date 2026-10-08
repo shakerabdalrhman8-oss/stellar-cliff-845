@@ -118,4 +118,4 @@ Windows 10/11, macOS 12+ 및 RAM 4 GB 이상 — 위 요구 사항 참조.
 
 ---
 
-*stellar-cliff-845 · 업데이트 2026-10-07 · MIT 라이선스에 따라 공유*
+*stellar-cliff-845 · 업데이트 2026-10-08 · MIT 라이선스에 따라 공유*
